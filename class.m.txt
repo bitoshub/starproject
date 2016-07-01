@@ -1,2 +1,3 @@
 version=1.0.0.0
 server=live
+addnewfile=class_iss01.h,class_iss01.m
